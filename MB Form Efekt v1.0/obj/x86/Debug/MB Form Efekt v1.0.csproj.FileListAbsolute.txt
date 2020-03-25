@@ -1,0 +1,24 @@
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\MB Form Efekt v1.0\MB Form Efekt v1.0\bin\Debug\MB Form Efekt v1.0.exe
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\MB Form Efekt v1.0\MB Form Efekt v1.0\bin\Debug\MB Form Efekt v1.0.pdb
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\MB Form Efekt v1.0\MB Form Efekt v1.0\obj\x86\Debug\MB_Form_Efekt_v1._0.Form1.resources
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\MB Form Efekt v1.0\MB Form Efekt v1.0\obj\x86\Debug\MB_Form_Efekt_v1._0.Properties.Resources.resources
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\MB Form Efekt v1.0\MB Form Efekt v1.0\obj\x86\Debug\MB Form Efekt v1.0.csproj.GenerateResource.Cache
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\MB Form Efekt v1.0\MB Form Efekt v1.0\obj\x86\Debug\MB Form Efekt v1.0.exe
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\MB Form Efekt v1.0\MB Form Efekt v1.0\obj\x86\Debug\MB Form Efekt v1.0.pdb
+F:\04 - Yazılım\04 - Form Projeleri\23 Form Efekt V1.0\MB Form Efekt v1.0\obj\x86\Debug\MB Form Efekt v1.0.exe
+F:\04 - Yazılım\04 - Form Projeleri\23 Form Efekt V1.0\MB Form Efekt v1.0\obj\x86\Debug\MB Form Efekt v1.0.pdb
+F:\04 - Yazılım\04 - Form Projeleri\23 Form Efekt V1.0\MB Form Efekt v1.0\bin\Debug\MB Form Efekt v1.0.exe
+F:\04 - Yazılım\04 - Form Projeleri\23 Form Efekt V1.0\MB Form Efekt v1.0\bin\Debug\MB Form Efekt v1.0.pdb
+F:\04 - Yazılım\04 - Form Projeleri\23 Form Efekt V1.0\MB Form Efekt v1.0\obj\x86\Debug\MB Form Efekt v1.0.csprojResolveAssemblyReference.cache
+F:\04 - Yazılım\04 - Form Projeleri\23 Form Efekt V1.0\MB Form Efekt v1.0\obj\x86\Debug\MB_Form_Efekt_v1._0.Form1.resources
+F:\04 - Yazılım\04 - Form Projeleri\23 Form Efekt V1.0\MB Form Efekt v1.0\obj\x86\Debug\MB_Form_Efekt_v1._0.Properties.Resources.resources
+F:\04 - Yazılım\04 - Form Projeleri\23 Form Efekt V1.0\MB Form Efekt v1.0\obj\x86\Debug\MB Form Efekt v1.0.csproj.GenerateResource.Cache
+G:\03 - Cloud\05 - Github - Akademi\01 - C# Form Projeleri\Form 28 - Form Efekt V1.0\MB Form Efekt v1.0\bin\Debug\MB Form Efekt v1.0.exe
+G:\03 - Cloud\05 - Github - Akademi\01 - C# Form Projeleri\Form 28 - Form Efekt V1.0\MB Form Efekt v1.0\bin\Debug\MB Form Efekt v1.0.pdb
+G:\03 - Cloud\05 - Github - Akademi\01 - C# Form Projeleri\Form 28 - Form Efekt V1.0\MB Form Efekt v1.0\obj\x86\Debug\MB Form Efekt v1.0.csprojAssemblyReference.cache
+G:\03 - Cloud\05 - Github - Akademi\01 - C# Form Projeleri\Form 28 - Form Efekt V1.0\MB Form Efekt v1.0\obj\x86\Debug\MB_Form_Efekt_v1._0.Form1.resources
+G:\03 - Cloud\05 - Github - Akademi\01 - C# Form Projeleri\Form 28 - Form Efekt V1.0\MB Form Efekt v1.0\obj\x86\Debug\MB_Form_Efekt_v1._0.Properties.Resources.resources
+G:\03 - Cloud\05 - Github - Akademi\01 - C# Form Projeleri\Form 28 - Form Efekt V1.0\MB Form Efekt v1.0\obj\x86\Debug\MB Form Efekt v1.0.csproj.GenerateResource.cache
+G:\03 - Cloud\05 - Github - Akademi\01 - C# Form Projeleri\Form 28 - Form Efekt V1.0\MB Form Efekt v1.0\obj\x86\Debug\MB Form Efekt v1.0.csproj.CoreCompileInputs.cache
+G:\03 - Cloud\05 - Github - Akademi\01 - C# Form Projeleri\Form 28 - Form Efekt V1.0\MB Form Efekt v1.0\obj\x86\Debug\MB Form Efekt v1.0.exe
+G:\03 - Cloud\05 - Github - Akademi\01 - C# Form Projeleri\Form 28 - Form Efekt V1.0\MB Form Efekt v1.0\obj\x86\Debug\MB Form Efekt v1.0.pdb
